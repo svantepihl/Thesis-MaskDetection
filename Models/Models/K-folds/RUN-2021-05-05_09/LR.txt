@@ -1,0 +1,6 @@
+start_lr = 1e-07
+min_lr = 1e-08
+max_lr = 0.0004
+rampup_epochs = 50
+sustain_epochs = 10
+exp_decay = 0.6
