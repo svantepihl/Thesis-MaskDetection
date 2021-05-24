@@ -2,7 +2,7 @@
 
 Länk till dataset: [LÄNK](https://drive.google.com/drive/folders/18UJsRrjrW4lIlKbYhNQbQcrLFoApxymp?usp=sharing)
 
-I detta repot finnes:
+I detta repot hittas:
 - All Python Notebooks för att förbehandla bilder, träna modeller och kompilera Edge TPU modeller (mappen: Notebooks)
 - Exempelkod för att kunna göra modellerna på en vanliga dator. (mappen: Runner)
 - Färdigtränade modeller (mappen: Models)
